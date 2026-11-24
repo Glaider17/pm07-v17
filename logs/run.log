@@ -1,0 +1,29 @@
+2026-11-10T20:51:05+03:00 [INFO] START db=pm07_v17
+2026-11-10T20:51:05+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T20:51:05+03:00 [INFO] END result=OK
+2026-11-10T20:57:32+03:00 [INFO] START db=pm07_v17
+2026-11-10T20:57:32+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T20:57:32+03:00 [INFO] END result=OK
+2026-11-10T20:57:35+03:00 [INFO] START db=pm07_v17
+2026-11-10T20:57:35+03:00 [INFO] Совпадений нет
+2026-11-10T20:57:35+03:00 [INFO] END result=OK
+2026-11-10T20:57:39+03:00 [INFO] START db=pm07_v17
+2026-11-10T20:57:39+03:00 [ERROR] exit=1
+2026-11-10T21:00:07+03:00 [INFO] START db=pm07_v17
+2026-11-10T21:00:07+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T21:00:07+03:00 [INFO] END result=OK
+2026-11-10T21:02:03+03:00 [INFO] START db=pm07_v17
+2026-11-10T21:02:03+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T21:02:03+03:00 [INFO] END result=OK
+2026-11-10T21:04:45+03:00 [INFO] START db=pm07_v17
+2026-11-10T21:04:45+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T21:04:45+03:00 [INFO] elapsed_ms=4
+2026-11-10T21:04:45+03:00 [INFO] END result=OK
+2026-11-10T21:06:19+03:00 [INFO] START db=pm07_v17
+2026-11-10T21:06:20+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T21:06:20+03:00 [INFO] elapsed_ms=1006
+2026-11-10T21:06:20+03:00 [INFO] END result=OK
+2026-11-10T21:06:26+03:00 [INFO] START db=pm07_v17
+2026-11-10T21:06:26+03:00 [WARN] Найдены совпадения; см. out/error-matches.txt
+2026-11-10T21:06:26+03:00 [INFO] elapsed_ms=3
+2026-11-10T21:06:26+03:00 [INFO] END result=OK
